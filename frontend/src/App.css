@@ -1,0 +1,68 @@
+.App {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#heading-text {
+  font-weight: 700;
+}
+
+.heading-div {
+  margin-bottom: 50px;
+}
+
+.input-div {
+  /* border: solid #6D2932;
+  border-width: 2px 0px 0px 0px; */
+  margin: 0 auto;
+  width: 600px;
+  display: flex;
+}
+
+hr {
+  border: solid #6D2932;
+  border-width: 2px 0px 0px 0px;
+}
+
+.upload-text {
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.upload-div {
+  padding: 20px;
+  width: 100%;
+}
+
+.generate-btn-div {
+  margin-top: 20px;
+  margin-bottom: 30px;   
+}
+
+#generate-btn {
+  background-color: #6D2932;
+  color: #fff;
+}
+
+.doc-div {
+  width: 45%;
+  left: 0;
+  margin: auto;
+}
+
+.subdoc-div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.subdoc-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.subdoc-wrapper :hover {
+  cursor: pointer;
+}
